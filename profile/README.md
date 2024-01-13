@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">We are a group of programmers/designers who create a team that creates advanced and less advanced custom applications, we also publish free versions of our various things. 💎<br><br>🔥 Join our community to learn more: https://discord.gg/KhExwvqZb5<br>💲 Or visit our website: https://devs.market</p>
+<p align="left">We are a group of programmers/designers who create a team that creates advanced and less advanced custom applications, we also publish free versions of our various things. 💎<br><br>🔥 Join our community to learn more: https://discord.gg/KhExwvqZb5<br>💲 Or visit our website: https://devsmarket.eu</p>
 
 ###
 
